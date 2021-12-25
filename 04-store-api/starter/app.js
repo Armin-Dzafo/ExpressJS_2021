@@ -17,7 +17,7 @@ app.use(express.json());
 
 // routes
 app.get('/', (req, res) => {
-  res.send('<h1>Store API</h1><a href="/api/v1/products">products route</a>');
+    res.send('<h1>Store API</h1><a href="/api/v1/products">products route</a>');
 });
 
 // main route
@@ -31,13 +31,13 @@ app.use(errorHandlerMiddleware);
 const port = process.env.PORT || 3000;
 
 const start = async () => {
-  try {
-    // connectDB
-    await connectDB(process.env.MONGO_URI);
-    app.listen(port, console.log(`Server is listening to port ${port}...`));
-  } catch (error) {
-    console.error(error);
-  }
+    try {
+        // connectDB
+        await connectDB(process.env.MONGO_URI);
+        app.listen(port, console.log(`Server is listening to port ${port}...`));
+    } catch (error) {
+        console.error(error);
+    }
 };
 
 start();
