@@ -14,9 +14,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{URL}}/auth/logout",
+							"raw": "https://e-commerce-api-alojsb.herokuapp.com/api/v1/auth/logout",
 							"host": [
-								"{{URL}}"
+								"https://e-commerce-api-alojsb.herokuapp.com/api/v1"
 							],
 							"path": [
 								"auth",
@@ -41,9 +41,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{URL}}/auth/register",
+							"raw": "https://e-commerce-api-alojsb.herokuapp.com/api/v1/auth/register",
 							"host": [
-								"{{URL}}"
+								"https://e-commerce-api-alojsb.herokuapp.com/api/v1"
 							],
 							"path": [
 								"auth",
@@ -68,9 +68,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{URL}}/auth/login",
+							"raw": "https://e-commerce-api-alojsb.herokuapp.com/api/v1/auth/login",
 							"host": [
-								"{{URL}}"
+								"https://e-commerce-api-alojsb.herokuapp.com/api/v1"
 							],
 							"path": [
 								"auth",
@@ -91,9 +91,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{URL}}/users",
+							"raw": "https://e-commerce-api-alojsb.herokuapp.com/api/v1/users",
 							"host": [
-								"{{URL}}"
+								"https://e-commerce-api-alojsb.herokuapp.com/api/v1"
 							],
 							"path": [
 								"users"
@@ -108,9 +108,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{URL}}/users/showMe",
+							"raw": "https://e-commerce-api-alojsb.herokuapp.com/api/v1/users/showMe",
 							"host": [
-								"{{URL}}"
+								"https://e-commerce-api-alojsb.herokuapp.com/api/v1"
 							],
 							"path": [
 								"users",
@@ -135,9 +135,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{URL}}/users/updateUser",
+							"raw": "https://e-commerce-api-alojsb.herokuapp.com/api/v1/users/updateUser",
 							"host": [
-								"{{URL}}"
+								"https://e-commerce-api-alojsb.herokuapp.com/api/v1"
 							],
 							"path": [
 								"users",
@@ -162,9 +162,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{URL}}/users/updateUserPassword",
+							"raw": "https://e-commerce-api-alojsb.herokuapp.com/api/v1/users/updateUserPassword",
 							"host": [
-								"{{URL}}"
+								"https://e-commerce-api-alojsb.herokuapp.com/api/v1"
 							],
 							"path": [
 								"users",
@@ -192,9 +192,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{URL}}/users/61e46cb78b7dbd47ec4eb126",
+							"raw": "https://e-commerce-api-alojsb.herokuapp.com/api/v1/users/61e46cb78b7dbd47ec4eb126",
 							"host": [
-								"{{URL}}"
+								"https://e-commerce-api-alojsb.herokuapp.com/api/v1"
 							],
 							"path": [
 								"users",
@@ -215,9 +215,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{URL}}/products",
+							"raw": "https://e-commerce-api-alojsb.herokuapp.com/api/v1/products",
 							"host": [
-								"{{URL}}"
+								"https://e-commerce-api-alojsb.herokuapp.com/api/v1"
 							],
 							"path": [
 								"products"
@@ -241,9 +241,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{URL}}/products",
+							"raw": "https://e-commerce-api-alojsb.herokuapp.com/api/v1/products",
 							"host": [
-								"{{URL}}"
+								"https://e-commerce-api-alojsb.herokuapp.com/api/v1"
 							],
 							"path": [
 								"products"
@@ -258,9 +258,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{URL}}/products/61ed7d73b7b27b0c28e151a3",
+							"raw": "https://e-commerce-api-alojsb.herokuapp.com/api/v1/products/61ed7d73b7b27b0c28e151a3",
 							"host": [
-								"{{URL}}"
+								"https://e-commerce-api-alojsb.herokuapp.com/api/v1"
 							],
 							"path": [
 								"products",
@@ -285,9 +285,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{URL}}/products/61ed7d73b7b27b0c28e151a3",
+							"raw": "https://e-commerce-api-alojsb.herokuapp.com/api/v1/products/61ed7d73b7b27b0c28e151a3",
 							"host": [
-								"{{URL}}"
+								"https://e-commerce-api-alojsb.herokuapp.com/api/v1"
 							],
 							"path": [
 								"products",
@@ -303,9 +303,9 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "{{URL}}/products/61ed9deff9ef4380c6cd045d",
+							"raw": "https://e-commerce-api-alojsb.herokuapp.com/api/v1/products/61ed9deff9ef4380c6cd045d",
 							"host": [
-								"{{URL}}"
+								"https://e-commerce-api-alojsb.herokuapp.com/api/v1"
 							],
 							"path": [
 								"products",
@@ -331,9 +331,9 @@
 							]
 						},
 						"url": {
-							"raw": "{{URL}}/products/uploadImage",
+							"raw": "https://e-commerce-api-alojsb.herokuapp.com/api/v1/products/uploadImage",
 							"host": [
-								"{{URL}}"
+								"https://e-commerce-api-alojsb.herokuapp.com/api/v1"
 							],
 							"path": [
 								"products",
@@ -349,9 +349,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{URL}}/products/61ed7d73b7b27b0c28e151a3/reviews",
+							"raw": "https://e-commerce-api-alojsb.herokuapp.com/api/v1/products/61ed7d73b7b27b0c28e151a3/reviews",
 							"host": [
-								"{{URL}}"
+								"https://e-commerce-api-alojsb.herokuapp.com/api/v1"
 							],
 							"path": [
 								"products",
@@ -373,9 +373,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{URL}}/reviews",
+							"raw": "https://e-commerce-api-alojsb.herokuapp.com/api/v1/reviews",
 							"host": [
-								"{{URL}}"
+								"https://e-commerce-api-alojsb.herokuapp.com/api/v1"
 							],
 							"path": [
 								"reviews"
@@ -399,9 +399,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{URL}}/reviews",
+							"raw": "https://e-commerce-api-alojsb.herokuapp.com/api/v1/reviews",
 							"host": [
-								"{{URL}}"
+								"https://e-commerce-api-alojsb.herokuapp.com/api/v1"
 							],
 							"path": [
 								"reviews"
@@ -416,9 +416,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{URL}}/reviews/61edc100a2c1038e5d0d3f6f",
+							"raw": "https://e-commerce-api-alojsb.herokuapp.com/api/v1/reviews/61edc100a2c1038e5d0d3f6f",
 							"host": [
-								"{{URL}}"
+								"https://e-commerce-api-alojsb.herokuapp.com/api/v1"
 							],
 							"path": [
 								"reviews",
@@ -443,9 +443,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{URL}}/reviews/61ee910a915b16268596cbcc",
+							"raw": "https://e-commerce-api-alojsb.herokuapp.com/api/v1/reviews/61ee910a915b16268596cbcc",
 							"host": [
-								"{{URL}}"
+								"https://e-commerce-api-alojsb.herokuapp.com/api/v1"
 							],
 							"path": [
 								"reviews",
@@ -461,9 +461,9 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "{{URL}}/reviews/61ee8fa5915b16268596cbad",
+							"raw": "https://e-commerce-api-alojsb.herokuapp.com/api/v1/reviews/61ee8fa5915b16268596cbad",
 							"host": [
-								"{{URL}}"
+								"https://e-commerce-api-alojsb.herokuapp.com/api/v1"
 							],
 							"path": [
 								"reviews",
@@ -484,9 +484,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{URL}}/orders",
+							"raw": "https://e-commerce-api-alojsb.herokuapp.com/api/v1/orders",
 							"host": [
-								"{{URL}}"
+								"https://e-commerce-api-alojsb.herokuapp.com/api/v1"
 							],
 							"path": [
 								"orders"
@@ -501,9 +501,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{URL}}/orders/showAllMyOrders",
+							"raw": "https://e-commerce-api-alojsb.herokuapp.com/api/v1/orders/showAllMyOrders",
 							"host": [
-								"{{URL}}"
+								"https://e-commerce-api-alojsb.herokuapp.com/api/v1"
 							],
 							"path": [
 								"orders",
@@ -519,9 +519,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{URL}}/orders/61ef11e79fe6e3fc50fa19dd",
+							"raw": "https://e-commerce-api-alojsb.herokuapp.com/api/v1/orders/61ef11e79fe6e3fc50fa19dd",
 							"host": [
-								"{{URL}}"
+								"https://e-commerce-api-alojsb.herokuapp.com/api/v1"
 							],
 							"path": [
 								"orders",
@@ -546,9 +546,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{URL}}/orders",
+							"raw": "https://e-commerce-api-alojsb.herokuapp.com/api/v1/orders",
 							"host": [
-								"{{URL}}"
+								"https://e-commerce-api-alojsb.herokuapp.com/api/v1"
 							],
 							"path": [
 								"orders"
@@ -572,9 +572,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{URL}}/orders/61ef11e79fe6e3fc50fa19dd",
+							"raw": "https://e-commerce-api-alojsb.herokuapp.com/api/v1/orders/61ef11e79fe6e3fc50fa19dd",
 							"host": [
-								"{{URL}}"
+								"https://e-commerce-api-alojsb.herokuapp.com/api/v1"
 							],
 							"path": [
 								"orders",
